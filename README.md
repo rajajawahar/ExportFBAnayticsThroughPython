@@ -1,5 +1,5 @@
 # ExportFBAnayticstoPython
-Application which fetch firebase analytics data from BigQuery and convert to Excel in dateformat
+Application which fetch firebase analytics data from BigQuery and convert to Excel.
 
 # Prerequisites
 
